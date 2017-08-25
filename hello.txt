@@ -1,2 +1,8 @@
 bonjour capgemini and hello capgemini
 bonjour youssef
+<<<<<<< Updated upstream
+=======
+bonjour Nicolas
+Bonjour kiko
+sallut
+>>>>>>> Stashed changes
